@@ -1,19 +1,32 @@
-# IKEv2 Optional SA&amp;TS Payloads in Child Exchange
+# IPSECME Drafts
 
-This is the working area for the individual Internet-Draft, "IKEv2 Optional SA&amp;TS Payloads in Child Exchange".
+This is the working area for individual Internet-Drafts.
 
-The markdown used is designed to be git friendly.
-Every sentence is started on a new line, and is not wrapped within the markdown.
-Please respect that when sending pull requests.
-A minor mode to wrap your sentences in your editor such as Emacs "visual-line-wrap" may be helpful.
+## Security Architecture for the Internet Protocol
 
-No trailing whitespace please.
+* [Editor's Copy](https://mcr.github.io/rfc4301bis/#go.draft-richardson-ipsecme-4301bis.html)
+* [Datatracker Page](https://datatracker.ietf.org/doc/draft-richardson-ipsecme-4301bis)
+* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-richardson-ipsecme-4301bis)
+* [Compare Editor's Copy to Individual Draft](https://mcr.github.io/rfc4301bis/#go.draft-richardson-ipsecme-4301bis.diff)
 
-* [Editor's Copy](https://mcr.github.io/ipsecme-ikev2-sa-ts-payloads/#go.draft-kampati-ipsecme-ikev2-sa-ts-payloads-opt-latest-latest.html)
-* [Individual Draft](https://tools.ietf.org/html/draft-kampati-ipsecme-ikev2-sa-ts-payloads-opt-latest-latest)
-* [Compare Editor's Copy to Individual Draft](https://mcr.github.io/ipsecme-ikev2-sa-ts-payloads/#go.draft-kampati-ipsecme-ikev2-sa-ts-payloads-opt-latest-latest.diff)
+## IP Encapsulating Security Payload (ESP)
 
-## Building the Draft
+* [Editor's Copy](https://mcr.github.io/rfc4301bis/#go.draft-richardson-ipsecme-4303bis.html)
+* [Datatracker Page](https://datatracker.ietf.org/doc/draft-richardson-ipsecme-4303bis)
+* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-richardson-ipsecme-4303bis)
+* [Compare Editor's Copy to Individual Draft](https://mcr.github.io/rfc4301bis/#go.draft-richardson-ipsecme-4303bis.diff)
+
+
+## Contributing
+
+See the
+[guidelines for contributions](https://github.com/mcr/rfc4301bis/blob/main/CONTRIBUTING.md).
+
+Contributions can be made by creating pull requests.
+The GitHub interface supports creating pull requests using the Edit (✏) button.
+
+
+## Command Line Usage
 
 Formatted text and HTML versions of the draft can be built using `make`.
 
@@ -21,11 +34,6 @@ Formatted text and HTML versions of the draft can be built using `make`.
 $ make
 ```
 
-This requires that you have the necessary software installed.  See
-[the instructions](https://github.com/martinthomson/i-d-template/blob/master/doc/SETUP.md).
+Command line usage requires that you have the necessary software installed.  See
+[the instructions](https://github.com/martinthomson/i-d-template/blob/main/doc/SETUP.md).
 
-
-## Contributing
-
-See the
-[guidelines for contributions](https://github.com/mcr/ipsecme-ikev2-sa-ts-payloads/blob/master/CONTRIBUTING.md).

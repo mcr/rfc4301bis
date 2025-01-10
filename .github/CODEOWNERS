@@ -1,0 +1,4 @@
+# Automatically generated CODEOWNERS
+# Regenerate with `make update-codeowners`
+draft-richardson-ipsecme-4301bis.md kent@bbn.com kseo@bbn.com
+draft-richardson-ipsecme-4303bis.md kent@bbn.com
