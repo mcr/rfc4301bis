@@ -3,6 +3,7 @@ v: 3
 cat: std
 number: '4303'
 obsoletes: '2406'
+docname: draft-richardson-ipsecme-4303bis-latest
 submissiontype: IETF
 pi:
   compact: 'yes'

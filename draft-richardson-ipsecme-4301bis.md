@@ -4,6 +4,7 @@ cat: std
 number: '4301'
 obsoletes: '2401'
 submissiontype: IETF
+docname: draft-richardson-ipsecme-4301bis-latest
 pi:
   compact: 'yes'
 #  text-list-symbols: oo*+-
@@ -1330,7 +1331,7 @@ inaccessible due to packet fragmentation.
      acquired from a packet.  A name may be used as a symbolic
      identifier for an IPsec Local or Remote address.  Named SPD
      entries are used in two ways:
-      
+
       1. A named SPD entry is used by a responder (not an initiator)
          in support of access control when an IP address would not be
          appropriate for the Remote IP address selector, e.g., for
